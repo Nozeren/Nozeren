@@ -3,6 +3,8 @@
 Hi I'm Nelson Rabasquinho <width="50">
 </h1>
 
+
+## 📫 How to reach me:
 <div> 
   <a href="https://www.linkedin.com/in/nelson-rabasquinho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/xgRUBA4Ste" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></
