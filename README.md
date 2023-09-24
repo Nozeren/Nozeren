@@ -15,18 +15,18 @@
 <img  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
-<div style="display: inline_block"align="center">
+<div style="display: inline_block"align="left">
 <img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-<div style="display: inline_block"align="center">
+<div style="display: inline_block"align="left">
 <img  src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
 <img  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img  src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </div>
-<div style="display: inline_block"align="center">
+<div style="display: inline_block"align="left">
 <img  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img  src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -34,7 +34,7 @@
 </div>
 
 <h3 align="center"> &#x1f4c8; Stats</h3>
-<div style="display: inline_block"align="center">
+<div style="display: inline_block"align="left">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nozeren&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nozeren&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
