@@ -33,9 +33,3 @@
     <br/><br/>
 </div>
 
-<h3 align="center"> &#x1f4c8; Stats</h3>
-<div style="display: inline_block"align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nozeren&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nozeren&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-</div>
