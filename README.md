@@ -14,4 +14,3 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://github.com/Nozeren/.dotfiles">dotfiles</a></p>
