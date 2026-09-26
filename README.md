@@ -2,10 +2,6 @@
 <b>$ whoami</b>
 ❯ Nelson Rabasquinho · Automation Engineer & QA
 
-<b>$ ls projects/</b>
-❯ <a href="https://github.com/Nozeren/DuoBudget">DuoBudget/</a>                          split household costs with your partner
-❯ <a href="https://github.com/Nozeren/wdio-sessions-screenshot-on-fail">wdio-sessions-screenshot-on-fail/</a>   CodeceptJS: screenshot every session on failure
-
 <b>$ ls ~/env/</b>
 ❯ arch  neovim  tmux  → <a href="https://github.com/Nozeren/.dotfiles">dotfiles</a>
 
