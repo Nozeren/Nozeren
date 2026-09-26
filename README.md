@@ -1,22 +1,15 @@
-```bash
-$ whoami
-Nelson Rabasquinho, Automation Engineer & QA
-(formerly data analyst, still fond of pandas)
+<pre>
+<b>$ whoami</b>
+❯ Nelson Rabasquinho · Automation Engineer & QA
 
-$ cat about_me.txt
-I like spotting problems and building tools that make work easier and faster.
-When I'm not coding: CrossFit, long walks, books, and the cinema.
-```
+<b>$ ls projects/</b>
+❯ <a href="https://github.com/Nozeren/DuoBudget">DuoBudget/</a>                          split household costs with your partner
+❯ <a href="https://github.com/Nozeren/wdio-sessions-screenshot-on-fail">wdio-sessions-screenshot-on-fail/</a>   CodeceptJS: screenshot every session on failure
 
-### `$ ls projects/`
+<b>$ ls ~/env/</b>
+❯ arch  neovim  tmux  → <a href="https://github.com/Nozeren/.dotfiles">dotfiles</a>
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**wdio-sessions-screenshot-on-fail**](https://github.com/Nozeren/wdio-sessions-screenshot-on-fail) | CodeceptJS plugin that screenshots every session on failure and attaches them to Allure | JavaScript |
-| [**DuoBudget**](https://github.com/Nozeren/DuoBudget) | Track expenses, categorize bills, and split costs with your partner ([API](https://github.com/Nozeren/DuoBudget-API) · [DB](https://github.com/Nozeren/DuoBudget-DB)) | Python · Flask · PostgreSQL |
-
-### `$ ls ~/env/`
-
-[![Env](https://skillicons.dev/icons?i=arch,neovim,linux,bash,git)](https://github.com/Nozeren/.dotfiles)
-
-Arch · Neovim · tmux, and my [dotfiles](https://github.com/Nozeren/.dotfiles).
+<b>$ cat about_me.txt</b>
+❯ I like spotting problems and building tools that make work easier and more efficient.
+❯ When I'm not coding: CrossFit, walking, reading, and going to the cinema.
+</pre>
