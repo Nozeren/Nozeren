@@ -1,22 +1,22 @@
 ```bash
 $ whoami
-❯ ɴᴇʟsᴏɴ ʀᴀʙᴀsǫᴜɪɴʜᴏ
-
-$ echo "Welcome to my GitHub profile!"
-❯ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴇɴɢɪɴᴇᴇʀ | Qᴬ | D̶a̶t̶a̶ ̶A̶n̶a̶l̶y̶s̶t̶
-
-$ cd skills
-$ ls
-❯ ᴘʏᴛʜᴏɴ  ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ   ᴄ  ᴄ++  ᴊᴇɴᴋɪɴs  ᴊɪʀᴀ  ᴘᴏsᴛᴍᴀɴ  
-❯ ᴘᴏsᴛɢʀᴇsǫʟ  ᴍʏsǫʟ  sǫʟɪᴛᴇ  ᴍᴏɴɢᴏᴅʙ  
-❯ ᴋɪʙᴀɴᴀ  ᴍɪᴄʀᴏsᴏꜰᴛ_ᴇxᴄᴇʟ  ᴘᴏᴡᴇʀʙɪ  
-❯ ɴᴜᴍᴘʏ  ᴘᴀɴᴅᴀs
-
-$ cd env
-$ ls
-❯ ᴀʀᴄʜ  ɴᴇᴏᴠɪᴍ  ᴛᴍᴜx
+Nelson Rabasquinho, Automation Engineer & QA
+(formerly data analyst, still fond of pandas)
 
 $ cat about_me.txt
-❯ ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ sᴘᴏᴛᴛɪɴɢ ᴘʀᴏʙʟᴇᴍs ᴀɴᴅ ᴄʀᴇᴀᴛɪɴɢ ᴛᴏᴏʟs ᴛᴏ ᴍᴀᴋᴇ ᴡᴏʀᴋ ᴇᴀsɪᴇʀ ᴀɴᴅ ᴍᴏʀᴇ ᴇꜰꜰɪᴄɪᴇɴᴛ.
-❯ ᴡʜᴇɴ ɪ'ᴍ ɴᴏᴛ ᴄᴏᴅɪɴɢ, ɪ ᴇɴᴊᴏʏ ᴄʀᴏssꜰɪᴛ, ᴡᴀʟᴋɪɴɢ, ʀᴇᴀᴅɪɴɢ, ᴀɴᴅ ɢᴏɪɴɢ ᴛᴏ ᴛʜᴇ ᴄɪɴᴇᴍᴀ.
+I like spotting problems and building tools that make work easier and faster.
+When I'm not coding: CrossFit, long walks, books, and the cinema.
 ```
+
+### `$ ls projects/`
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**wdio-sessions-screenshot-on-fail**](https://github.com/Nozeren/wdio-sessions-screenshot-on-fail) | CodeceptJS plugin that screenshots every session on failure and attaches them to Allure | JavaScript |
+| [**DuoBudget**](https://github.com/Nozeren/DuoBudget) | Track expenses, categorize bills, and split costs with your partner ([API](https://github.com/Nozeren/DuoBudget-API) · [DB](https://github.com/Nozeren/DuoBudget-DB)) | Python · Flask · PostgreSQL |
+
+### `$ ls ~/env/`
+
+[![Env](https://skillicons.dev/icons?i=arch,neovim,linux,bash,git)](https://github.com/Nozeren/.dotfiles)
+
+Arch · Neovim · tmux, and my [dotfiles](https://github.com/Nozeren/.dotfiles).
